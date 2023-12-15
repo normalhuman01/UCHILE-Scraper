@@ -1,5 +1,3 @@
-# resultados.py
-
 class Resultados:
     def __init__(self):
         self.resultados = []

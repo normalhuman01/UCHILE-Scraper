@@ -1,4 +1,3 @@
-# uchile.py
 from resultados import Resultados
 from scrape import Scraper
 from stats import Estadisticas
